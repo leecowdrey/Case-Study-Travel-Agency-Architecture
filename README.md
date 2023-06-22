@@ -1,5 +1,7 @@
 # Technical Architect Case Study
 
+[Jump to presentation slides and diagrams](#Presentation)
+
 ## Introduction
 
 As part of the interview process we’re inviting candidates to take part in an example client meeting with the candidate performing the role of the consultant and the interviewers taking on the role of the clients.  This case study will provide you with the background to the potential piece of work for the fictitious client.  During the meeting we expect you to present the approach you are suggesting for the clients, along with a proposed delivery approach with any supporting infrastructure. In addition, you may also want to expand on these features/discussion points to demonstrate knowledge not covered by them.  Please note there is only 30 minutes within the interview to cover this scenario (20 minutes to present, then 10 minutes for questions), so please consider the amount of time you have available and the level of detail you provide.
@@ -30,4 +32,21 @@ The Travel Agents management team want to get their presence on the Internet, th
 - We will want to know how we then go from this conceptual model to delivery.
 - What kind of team you’d need to deliver and any artifacts you may produce to support this delivery.
 - Again, we are looking for only a high-level approach here.
+
+## Presentation
+
+- [PDF](./TRAVELcliqueCaseStudy.pdf)
+- [PowerPoint])./TRAVELcliqueCaseStudy.pptx)
+
+## Technical Architecture Diagrams
+
+- [Functional](./functional.svg)
+- [Application](./application.svg)
+- [Integration](./integration.svg)
+- [Data](./data.svg)
+- [Deployment](./deployment.svg)
+- [DevOps](./devops.svg)
+
+
+> [All architecture diagrams also available in Draw.io](./TRAVELcliqueArchitecture.drawio)
 
