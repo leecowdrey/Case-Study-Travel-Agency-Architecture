@@ -33,7 +33,9 @@ The Travel Agents management team want to get their presence on the Internet, th
 - What kind of team you’d need to deliver and any artifacts you may produce to support this delivery.
 - Again, we are looking for only a high-level approach here.
 
-## Presentation
+---
+
+# Presentation
 
 - [PDF](./TRAVELcliqueCaseStudy.pdf)
 - [PowerPoint](./TRAVELcliqueCaseStudy.pptx)
