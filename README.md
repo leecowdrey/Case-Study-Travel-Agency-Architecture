@@ -36,7 +36,7 @@ The Travel Agents management team want to get their presence on the Internet, th
 ## Presentation
 
 - [PDF](./TRAVELcliqueCaseStudy.pdf)
-- [PowerPoint])./TRAVELcliqueCaseStudy.pptx)
+- [PowerPoint](./TRAVELcliqueCaseStudy.pptx)
 
 ## Technical Architecture Diagrams
 
